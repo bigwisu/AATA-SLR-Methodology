@@ -1,0 +1,10 @@
+# Core libraries for Google Sheets and DataFrames
+gspread
+gspread-dataframe
+pandas
+
+# Google Generative AI for the LLM
+google-generativeai
+
+# Authentication for Google services
+google-auth-oauthlib
